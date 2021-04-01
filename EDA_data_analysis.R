@@ -1,8 +1,6 @@
 
 #--------------------------------------------------------------------------
 
-# Question number 1 
-
 library(tidyverse)
 library(ggplot2)
 
