@@ -1,5 +1,6 @@
 
-#--------------------------------------------------------------------------
+# Data Visualization on packages - ChickWeight, ToothGrowth, and Storms
+
 
 library(tidyverse)
 library(ggplot2)
